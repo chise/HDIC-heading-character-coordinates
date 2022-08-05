@@ -2,7 +2,9 @@
 A dataset of coordinates of regions of heading glyph-images of HDIC in full-text images
 
 [HDIC (Hanzi Dictionaries in Early Japan)](https://hdic.jp/)
+
 [HDIC full text database](https://github.com/shikeda/HDIC)
+
 [HDIC Viewer](https://viewer.hdic.jp/)
 
 
